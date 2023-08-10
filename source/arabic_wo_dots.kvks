@@ -2,7 +2,7 @@
 <visualkeyboard>
   <header>
     <version>10.0</version>
-    <kbdname>العربية_بغير_نقاط</kbdname>
+    <kbdname>arabic_wo_dots</kbdname>
     <flags/>
   </header>
 </visualkeyboard>

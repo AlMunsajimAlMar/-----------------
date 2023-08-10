@@ -23,19 +23,19 @@
   </Info>
   <Files>
     <File>
-      <Name>..\build\العربية_بغير_نقاط.kmx</Name>
+      <Name>..\build\arabic_wo_dots.kmx</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kmx</FileType>
     </File>
     <File>
-      <Name>..\build\العربية_بغير_نقاط.js</Name>
+      <Name>..\build\arabic_wo_dots.js</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.js</FileType>
     </File>
     <File>
-      <Name>..\build\العربية_بغير_نقاط.kvk</Name>
+      <Name>..\build\arabic_wo_dots.kvk</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kvk</FileType>
@@ -56,7 +56,7 @@
   <Keyboards>
     <Keyboard>
       <Name>العربية بغير نقاط</Name>
-      <ID>العربية_بغير_نقاط</ID>
+      <ID>arabic_wo_dots</ID>
       <Version>1.0</Version>
       <Languages/>
     </Keyboard>

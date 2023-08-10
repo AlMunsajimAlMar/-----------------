@@ -5,9 +5,9 @@ store(&COPYRIGHT) '© عبيدالرحمن'
 store(&VERSION) '10.0'
 store(&KEYBOARDVERSION) '1.0'
 store(&TARGETS) 'any windows macosx linux web'
-store(&BITMAP) 'العربية_بغير_نقاط.ico'
-store(&VISUALKEYBOARD) 'العربية_بغير_نقاط.kvks'
-store(&LAYOUTFILE) 'العربية_بغير_نقاط.keyman-touch-layout'
+store(&BITMAP) 'arabic_wo_dots.ico'
+store(&VISUALKEYBOARD) 'arabic_wo_dots.kvks'
+store(&LAYOUTFILE) 'arabic_wo_dots.keyman-touch-layout'
 
 begin Unicode > use(main)
 

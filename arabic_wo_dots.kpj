@@ -10,8 +10,8 @@
   <Files>
     <File>
       <ID>id_4c0e078d578487e8420d183dc753efe4</ID>
-      <Filename>العربية_بغير_نقاط.kmn</Filename>
-      <Filepath>source\العربية_بغير_نقاط.kmn</Filepath>
+      <Filename>arabic_wo_dots.kmn</Filename>
+      <Filepath>source\arabic_wo_dots.kmn</Filepath>
       <FileVersion>1.0</FileVersion>
       <FileType>.kmn</FileType>
       <Details>
@@ -21,8 +21,8 @@
     </File>
     <File>
       <ID>id_206af044f42feeefa0adc8fa3837dab9</ID>
-      <Filename>العربية_بغير_نقاط.kps</Filename>
-      <Filepath>source\العربية_بغير_نقاط.kps</Filepath>
+      <Filename>arabic_wo_dots.kps</Filename>
+      <Filepath>source\arabic_wo_dots.kps</Filepath>
       <FileVersion></FileVersion>
       <FileType>.kps</FileType>
       <Details>
@@ -53,8 +53,8 @@
     </File>
     <File>
       <ID>id_a7364e4d6b11ca72c9780727c5f4e566</ID>
-      <Filename>العربية_بغير_نقاط.keyboard_info</Filename>
-      <Filepath>العربية_بغير_نقاط.keyboard_info</Filepath>
+      <Filename>arabic_wo_dots.keyboard_info</Filename>
+      <Filepath>arabic_wo_dots.keyboard_info</Filepath>
       <FileVersion></FileVersion>
       <FileType>.keyboard_info</FileType>
     </File>
@@ -70,42 +70,35 @@
         <Message>This is a Arabic Keyboard Layout without Dots</Message>
       </Details>
     </File>
-    <File>
-      <ID>id_424a6b6ca3b5da5a37f6517b58442792</ID>
-      <Filename>Untitled.kps</Filename>
-      <Filepath>Untitled.kps</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.kps</FileType>
-      <Details/>
-    </File>
+    
     <File>
       <ID>id_d0bae0360ced6cff164a2ff6c9bdf5b2</ID>
-      <Filename>العربية_بغير_نقاط.ico</Filename>
-      <Filepath>source\العربية_بغير_نقاط.ico</Filepath>
+      <Filename>arabic_wo_dots.ico</Filename>
+      <Filepath>source\arabic_wo_dots.ico</Filepath>
       <FileVersion></FileVersion>
       <FileType>.ico</FileType>
       <ParentFileID>id_4c0e078d578487e8420d183dc753efe4</ParentFileID>
     </File>
     <File>
       <ID>id_a5ee710536fb1778c30dc3f993be647f</ID>
-      <Filename>العربية_بغير_نقاط.kmx</Filename>
-      <Filepath>source\..\build\العربية_بغير_نقاط.kmx</Filepath>
+      <Filename>arabic_wo_dots.kmx</Filename>
+      <Filepath>source\..\build\arabic_wo_dots.kmx</Filepath>
       <FileVersion></FileVersion>
       <FileType>.kmx</FileType>
       <ParentFileID>id_206af044f42feeefa0adc8fa3837dab9</ParentFileID>
     </File>
     <File>
       <ID>id_9f12c9a5b3686fcf26a363be3f93a5e4</ID>
-      <Filename>العربية_بغير_نقاط.js</Filename>
-      <Filepath>source\..\build\العربية_بغير_نقاط.js</Filepath>
+      <Filename>arabic_wo_dots.js</Filename>
+      <Filepath>source\..\build\arabic_wo_dots.js</Filepath>
       <FileVersion></FileVersion>
       <FileType>.js</FileType>
       <ParentFileID>id_206af044f42feeefa0adc8fa3837dab9</ParentFileID>
     </File>
     <File>
       <ID>id_b900889b6fb13b3d5f788772c527a370</ID>
-      <Filename>العربية_بغير_نقاط.kvk</Filename>
-      <Filepath>source\..\build\العربية_بغير_نقاط.kvk</Filepath>
+      <Filename>arabic_wo_dots.kvk</Filename>
+      <Filepath>source\..\build\arabic_wo_dots.kvk</Filepath>
       <FileVersion></FileVersion>
       <FileType>.kvk</FileType>
       <ParentFileID>id_206af044f42feeefa0adc8fa3837dab9</ParentFileID>

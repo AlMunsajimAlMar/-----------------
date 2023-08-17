@@ -4,10 +4,9 @@ store(&NAME) 'العربية بغير نقاط'
 store(&COPYRIGHT) '© عبيدالرحمن'
 store(&VERSION) '10.0'
 store(&KEYBOARDVERSION) '1.0'
-store(&TARGETS) 'any windows macosx linux web'
+store(&TARGETS) 'windows macosx linux web'
 store(&BITMAP) 'arabic_wo_dots.ico'
 store(&VISUALKEYBOARD) 'arabic_wo_dots.kvks'
-store(&LAYOUTFILE) 'arabic_wo_dots.keyman-touch-layout'
 
 begin Unicode > use(main)
 
